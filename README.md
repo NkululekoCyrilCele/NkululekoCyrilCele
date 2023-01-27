@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @NkululekoCyrilCele
-- 👀 I’m interested in data analytics, web and app development.
-- 🌱 I’m currently learning data analysis with python.
-- 💞️ I’m looking to collaborate on data analysis projects.
+- 👀 I’m interested back-end development.
 - 📫 How to reach me: nkululeko.cele@gmail.com
 
 <!---
