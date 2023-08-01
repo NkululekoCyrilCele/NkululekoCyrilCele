@@ -6,6 +6,6 @@
 
 📫 You can reach me via email at nkululeko.cele@gmail.com. I'm open to collaboration, so feel free to get in touch if you have any exciting projects or opportunities!
 
-🔭 Check out my GitHub repository, NkululekoCyrilCele, where I showcase some of my projects and contributions. Your feedback and suggestions are always welcome, and I'm thrilled to connect with fellow developers and enthusiasts.
+🔭 Check out my GitHub repositories where I showcase my projects and contributions. Your feedback and suggestions are always welcome, and I'm thrilled to connect with fellow developers and enthusiasts.
 
 Let's code and create something remarkable together! 😄🚀
